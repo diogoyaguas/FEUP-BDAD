@@ -16,6 +16,6 @@ Henrique Miguel Bastos Goncalves
 <br><br>
 
 ### Grades
-* 1st Project - 17,0
-* 2nd Project - 14,1
-* 3rd Project - 14,2
+* First Project - 17.0
+* Second Project - 14.1
+* Third Project - 14.2
